@@ -106,8 +106,6 @@
   *4 track groovebox*  
   Classic Game Boy groovebox for the GBA
 
-https://badd10de.itch.io/stepper-gba
-
 ## 🤝 Contributing
 
 Feel free to open a Pull Request or issue to submit new PortMaster music creation app that we don't know about ! 
