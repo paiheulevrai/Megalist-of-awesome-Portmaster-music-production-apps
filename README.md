@@ -1,6 +1,7 @@
 # 🎵 Megalist of PortMaster Music Creation Projects
 
 > A curated list of homebrew music creation software, synthesizers, grooveboxes, trackers, and samplers available on **PortMaster** for Linux handheld devices (Anbernic, TrimUI, Powkiddy, Miyoo, etc.).
+> Honesty disclaimer: I'm the maintainer of Choochootracker
 
 ---
 
