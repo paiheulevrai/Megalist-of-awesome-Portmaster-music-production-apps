@@ -9,7 +9,7 @@
   *Tracker / Sampler / OG*  
   Samples based workflow. Old and venerable. The OG console tracker.
 * **[ChipNomad](https://chipnomad.org/)**  
-  * Chiptune tracker*  
+  *Chiptune tracker*  
   Bit perfect chiptune specialized tracker.
 * **[ChooChooTracker](https://choochootracker.pages.dev/)**  
   *Modern Multiengine Tracker*  
