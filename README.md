@@ -26,7 +26,7 @@
 
 ---
 
-## 💾 Classic syle trackers
+## 💾 Classic style trackers
 
 * **[SunVox](https://portmaster.games/)**  
   *Modular Synthesizer & Tracker*  
