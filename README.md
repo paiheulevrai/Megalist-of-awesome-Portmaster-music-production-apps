@@ -60,7 +60,7 @@
   *4 track groovebox*  
   Groovebox with samples and synths.
 
-* **[MTRX]([https](https://reps.itch.io/mtrx-groovebox))**  
+* **[MTRX](https://reps.itch.io/mtrx-groovebox)**  
   *8 track groovebox*  
   Groovebox, multiengine, samples and several synth engines.
 
