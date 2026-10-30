@@ -5,7 +5,7 @@
 
 ## 🎛️ LSDJ style trackers
 
-* **[LittleGPTracker (LGPT / Piggy)]([https://portmaster.games/](https://github.com/djdiskmachine/LittleGPTracker))**  
+* **[LittleGPTracker (LGPT / Piggy)](https://portmaster.games/](https://github.com/djdiskmachine/LittleGPTracker)**  
   *Tracker / Sampler / LSDJ-Style*  
   Samples based workflow. Old and venerable. The OG console tracker.
 * **[ChipNomad](https://chipnomad.org/)**  
