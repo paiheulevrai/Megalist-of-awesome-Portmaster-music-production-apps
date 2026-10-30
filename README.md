@@ -5,15 +5,15 @@
 
 ## 🎛️ LSDJ style trackers
 
-* **[LittleGPTracker (LGPT / Piggy)](https://github.com/djdiskmachine/LittleGPTracker)**  
-  *Tracker / Sampler / OG*  
-  Samples based workflow. Old and venerable. The OG console tracker.
 * **[ChipNomad](https://chipnomad.org/)**  
   *Chiptune tracker*  
   Bit perfect chiptune specialized tracker.
 * **[ChooChooTracker](https://choochootracker.pages.dev/)**  
   *Modern Multiengine Tracker*  
   Tracker with a plethora of synths and sound design options.
+* **[LittleGPTracker (LGPT / Piggy)](https://github.com/djdiskmachine/LittleGPTracker)**  
+  *Tracker / Sampler / OG*  
+  Samples based workflow. Old and venerable. The OG console tracker.
 * **[PocketTracker](https://github.com/conanizer/pockettracker)**  
   *Modern Multiengine Tracker*  
   Tracker with Soundfonts, samples and more.
@@ -23,7 +23,6 @@
 * **[Poketrack](https://konsumer.js.org/poketrack/)**  
   *Multiengine Tracker*  
   Supports Soundfonts, synths and clap plugins
-
 
 ---
 
