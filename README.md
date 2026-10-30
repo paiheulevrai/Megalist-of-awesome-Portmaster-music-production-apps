@@ -81,6 +81,14 @@
 * **[Brixed](https://github.com/boorch/brixeq-pak)**  
   *5 track groovebox*  
   8 engines, modulations, effects and song mode.
+  
+* **[EuclidTrack](https://github.com/boorch/euclidtrack-pak)**  
+  *Multiengine euclidian groovebox*  
+  4 tracks, euclidian sequencer, multiengine.
+
+* **[Grampus](https://boorch.itch.io/grampus)**  
+  *5 track groovebox*  
+  8 engines, modulations, effects and song mode.
 
 ---
 
@@ -89,6 +97,16 @@
 * **[FMS](https://fors.fm/lab)**  
   *4 track groovebox*  
   GBA Groovebox with FM synths
+
+* **[GB-Z](https://gb-z.myshopify.com/)**  
+  *4 track groovebox*  
+  Acid groovebox for the classic Game Boy
+
+* **[STEPPER](https://gb-z.myshopify.com/)**  
+  *4 track groovebox*  
+  Classic Game Boy groovebox for the GBA
+
+https://badd10de.itch.io/stepper-gba
 
 ## 🤝 Contributing
 
