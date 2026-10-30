@@ -10,7 +10,7 @@
   Bit perfect chiptune specialized tracker.
 * **[ChooChooTracker](https://choochootracker.pages.dev/)**  
   *Modern Multiengine Tracker*  
-  Tracker with a plethora of synths and sound design options.
+  Tracker with a plethora of synths, effects and sound design options.
 * **[LittleGPTracker (LGPT / Piggy)](https://github.com/djdiskmachine/LittleGPTracker)**  
   *Tracker / Sampler / OG*  
   Samples based workflow. Old and venerable. The OG console tracker.
@@ -22,7 +22,7 @@
   Commercial tracker.  
 * **[Poketrack](https://konsumer.js.org/poketrack/)**  
   *Multiengine Tracker*  
-  Supports Soundfonts, synths and clap plugins
+  Multi engine tracker with effects, clap plugins support
 
 ---
 
@@ -64,6 +64,28 @@
   Groovebox, multiengine, samples and several synth engines.
 
 ---
+
+# 🎵 Non Portmaster music apps
+
+---
+
+## Trimui
+
+* **[Dronage Terminal](https://github.com/boorch/dronage-terminal-pak)**  
+  *Multiengine Drone Workstation*  
+  4 macro, deep modulation and effects.
+
+* **[Brixed](https://github.com/boorch/brixeq-pak)**  
+  *5 track groovebox*  
+  8 engines, modulations, effects and song mode.
+
+---
+
+## Emulation
+
+* **[FMS](https://fors.fm/lab)**  
+  *4 track groovebox*  
+  GBA Groovebox with FM synths
 
 ## 🤝 Contributing
 
