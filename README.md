@@ -44,7 +44,7 @@
 
 ## 🎹 Synthesizers & Sound Engines
 
-* **[Grainbrick](https://choochootracker.pages.dev/)**  
+* **[Grainbrick](https://github.com/ETRNLIAM/GrainBrick/)**  
   *Granular sampler/recorder*  
   Granular field recorder / soundscaper.
 
@@ -60,6 +60,9 @@
   *4 track groovebox*  
   Groovebox with samples and synths.
 
+* **[MTRX]([https](https://reps.itch.io/mtrx-groovebox))**  
+  *8 track groovebox*  
+  Groovebox, multiengine, samples and several synth engines.
 
 ---
 
