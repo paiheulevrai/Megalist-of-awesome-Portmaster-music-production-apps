@@ -78,7 +78,7 @@
   *Multiengine Drone Workstation*  
   4 macro, deep modulation and effects.
 
-* **[Brixed](https://github.com/boorch/brixeq-pak)**  
+* **[Brixeq](https://github.com/boorch/brixeq-pak)**  
   *5 track groovebox*  
   8 engines, modulations, effects and song mode.
   
