@@ -90,9 +90,11 @@
   *5 track groovebox*  
   8 engines, modulations, effects and song mode.
 
-* **[PolyBrick](https://github.com/boorch/polybrik-public)**
-  *Polyend Tracker Community firmware*
-  Port of a famous hardware tracker.
+* **[PolyBrick](https://github.com/boorch/polybrik-public)** 
+  *Polyend Tracker Community firmware*  
+  Port of a famous hardware tracker. 
+  
+  
   
 ---
 
