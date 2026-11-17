@@ -54,6 +54,10 @@
 
 ## 🎧 Grooveboxes & Samplers
 
+* **[daw_n](https://append-studio.itch.io/daw-n)**  
+  *8 track groovebox/ mini daw*  
+  DAW like timeline based groovebox, granular/sampler, usb midi/audio, polyrhythms, microtiming.
+  
 * **[Pocketacid](https://github.com/boomlinde/pocketacid)**  
   *Mini acid groovebox*  
   Step sequencer groovebox: one drum kit and two acid synths. Joysticks support.
@@ -65,7 +69,7 @@
 * **[MTRX](https://reps.itch.io/mtrx-groovebox)**  
   *8 track groovebox*  
   Groovebox, multiengine, samples and several synth engines.
-
+  
 ---
 
 # 🎵 Non Portmaster music apps
